@@ -1,3 +1,3 @@
 # tetris-RL
 
-pip install gym-tetris
+pip install tetris-gymnasium
